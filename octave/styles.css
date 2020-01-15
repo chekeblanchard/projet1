@@ -1,0 +1,160 @@
+/*GENERALE*/
+*
+{
+  margin: 0;
+  padding: 0;
+}
+header div 
+{
+  background-color:#010101; width: 1329px;height: 20px;float: right;
+}
+.gauche
+{
+  background-color:#840723;
+  width: 20px;
+  height: 700px;
+   float: left;
+}
+h4
+{
+	color: white;
+	
+}
+
+/*NAV*/
+header div nav
+{
+	float: right;
+	color: white;
+}
+header div nav ul
+{
+	list-style-type: none;
+}
+header div nav ul li
+{
+	display: inline-block;
+
+}
+header div nav ul li a
+{
+	text-decoration: none;
+	color: white;
+
+}
+#free
+{
+	margin-right: 1000px;
+}
+#MYCART
+{
+	margin-left: 10px;
+}
+
+/*SECTION FORMULAIRE*/
+#premiere
+{
+	background-color: #111111;height: 130px;
+	clear: top;
+}
+
+#premiere img
+{
+	padding:5px 80px;
+	height: 90px;
+}
+form
+{
+	float: right;
+	padding: 35px 150px;
+	border-color: none;
+
+}
+#couleur
+{
+	background-color:#2D2D2D;
+	color: white;
+
+}
+#premiere nav
+{
+	float: right;
+	padding: 83px 0px; 
+
+}
+#premiere ul
+{
+	
+	color: white;
+	list-style-type: none;
+
+}
+#premiere ul li
+{
+	display: inline-block;
+
+}
+#premiere ul li a
+{
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+
+}
+/*section2*/
+section
+{
+	background-color: #8B0425;
+	height: 240px;
+	
+}
+#course
+{
+	width: 500px;
+	margin-left: 40px;
+	height: 230px;
+	margin-top: -65px;
+}
+section h1
+{
+	float: right;
+	margin-right: 120px;
+	color: white;
+	font-size: 75px;
+
+}
+#BECOME
+{
+	float: right;
+	margin-top: -80px;
+	margin-right: 235px;
+	color: white;
+}
+
+/*fin*/
+#fin
+{
+	background-color: #000000;
+	color: white;
+	
+	padding-top: 40px;
+	height: 300px;
+	
+}
+#fin h2
+{
+	font-size: 40px;
+	text-align: center;
+	
+}
+#fin div
+{
+	text-align: center;
+	display: inline-block;
+	margin-left: 50px;
+	
+}
+#fin div img
+{
+	margin-bottom: 40px;
+}
